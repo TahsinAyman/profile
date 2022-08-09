@@ -11,7 +11,7 @@ class Scout extends Component {
                 <br />
                 <br />
                 <p>Recently Started at 2022. After 3 months of Scout Class Eearned the Membership Badge.</p>
-                <img src={scout} />
+                <img class="img-fluid" src={scout} />
             </div>
         )
     }
