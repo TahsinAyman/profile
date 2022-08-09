@@ -1,11 +1,11 @@
-.product-holder {
-  position: relative;
-  display: block;
-}
+
 .plus-image {
-  left: 20%;
-  top: 50%;
-  position: absolute;
-  margin-top: -25px;
-  margin-left: -25px;
+  width: 20%;
+}
+
+.banner{
+  background: url("./components/static/cover.jpeg") repeat-x;
+}
+.footer-bg{
+  background-color: brown;
 }

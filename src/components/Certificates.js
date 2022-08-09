@@ -8,7 +8,7 @@ class Certificates extends Component {
         return (
             data.map((i) => {
                 return (
-                    <div class="col-3">
+                    <div class="col">
                         <div class="card">
                             <div class="col block-center">
                                 <img src={hackerrank} class="card-img-top" alt="school" />

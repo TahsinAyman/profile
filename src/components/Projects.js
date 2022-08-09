@@ -6,13 +6,15 @@ class Projects extends Component {
         return (
             data.map((i) => {
                return (
-                    <div class="card col-3">
+                    <div class="col">
+                    <div class="card">
                         <div class="card-body">
                             <h5 class="card-title">{i.title}</h5>
                             <h6 class="card-subtitle mb-2 text-muted">{i.company}</h6>
                             <p class="card-text">{i.description}</p>
                             <a href={i.url} target="blank" class="card-link">View Website</a>
                         </div>
+                    </div>
                     </div>
                )
             })

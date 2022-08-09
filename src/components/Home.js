@@ -12,24 +12,15 @@ class Home extends Component {
                 <About />
                 <hr />
                 <Education /> 
-                <hr />
-                <br />
-                <br />
                 <h1>Certificates</h1>
-                <br />
-                <br />
                 <div class="row">
                     <Certificates />
                 </div>
-                <hr />
                 <Scout />
-                <hr />
-                <br />
-                <br />
                 <h1>Projects</h1>
-                <br />
-                <br />
-                <Projects />
+                <div class="row">
+                    <Projects />
+                </div>
             </div>
         )
     }

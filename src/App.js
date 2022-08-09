@@ -11,6 +11,7 @@ function App() {
       <div class="row">
         <Header />
       </div>
+      <div class="row"><hr /></div>
       <div class="row">
         <Routing />  
       </div>      
