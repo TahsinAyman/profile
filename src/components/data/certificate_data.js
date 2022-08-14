@@ -8,12 +8,11 @@ const data = [
         "link": "https://www.hackerrank.com/certificates/422b8e5e3213"
     },
     {
-        "title": "JavaScript (Basic)",
+        "title": "JavaScript (Intermediate)",
         "company": "HackerRank",
-        "birth": "Issued Jul 2022",
-        "expiration": "No Expiration Data",
-        "credentialId": "ff88d415ddb9",
-        "link": "https://www.hackerrank.com/certificates/ff88d415ddb9"
+        "birth": "Issued Aug 2022",
+        "credentialId": "679b35c9745e",
+        "link": "https://www.hackerrank.com/certificates/679b35c9745e"
     },
     {
         "title": "Rest API (Basic)",

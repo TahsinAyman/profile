@@ -6,7 +6,7 @@ class Banner extends Component {
     render() {
         return (
                 <div class="banner">
-                    <img class="img-thumbnail rounded-circle plus-image" src={icon} />
+                    <img class="rounded-circle plus-image" src={icon} />
                 </div>
         )
     }
