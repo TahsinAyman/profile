@@ -6,7 +6,6 @@ class Footer extends Component {
     render() {
         return (
             <div>
-                <hr />
                 <footer class="text-center">
                     This is a Profile of Tahsin Ayman
                     <br />
